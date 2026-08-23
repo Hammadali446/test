@@ -143,7 +143,7 @@ header .navbar {
     justify-content: space-between;
 }
 
-.hero-section .hero-details .title {
+.hero-section .hero-details h1.title {
     font-size: var(--font-size-xxl);
     color: #B3B3B3;
     font-family: "Times New Roman", Times, serif;
